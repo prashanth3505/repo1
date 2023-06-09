@@ -7,3 +7,4 @@ git remote add origin https://github.com/prashanth3505/repo2.git
 git push -u origin main
  new
 2new line
+3 rd line
